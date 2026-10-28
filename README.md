@@ -20,3 +20,7 @@ pytest projects/22-timeseries -q
 - Damped trend so long horizons do not explode
 - Walk-forward backtest: never sees the future it is predicting
 - Reports MAE, RMSE and MAPE rather than a single flattering number
+
+## Repository
+- GitHub: https://github.com/{owner}/timeseries-forecast
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
